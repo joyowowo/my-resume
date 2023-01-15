@@ -1,2 +1,2 @@
 # my resume
-my try 
+my own website deploying at git 
